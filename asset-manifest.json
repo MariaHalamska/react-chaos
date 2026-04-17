@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-chaos/static/css/main.54585062.css",
+    "main.js": "/react-chaos/static/js/main.d5fb9280.js",
+    "static/js/453.e656dfba.chunk.js": "/react-chaos/static/js/453.e656dfba.chunk.js",
+    "index.html": "/react-chaos/index.html",
+    "main.54585062.css.map": "/react-chaos/static/css/main.54585062.css.map",
+    "main.d5fb9280.js.map": "/react-chaos/static/js/main.d5fb9280.js.map",
+    "453.e656dfba.chunk.js.map": "/react-chaos/static/js/453.e656dfba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54585062.css",
+    "static/js/main.d5fb9280.js"
+  ]
+}
