@@ -7,6 +7,7 @@ function App() {
 
       <body>
         <h2>Chaos</h2>
+        <p> Nothing there, playing around c:</p>
       </body>
       <footer>
         <p>foot</p>
