@@ -5,30 +5,32 @@ body {
     "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #c9eaff;
+  animation-timing-function: ease;
+  transition-duration: 500ms;
+}
+.dark body {
+  background-color: #181c31;
+  animation-timing-function: ease;
+  transition-duration: 500ms;
 }
 
 code {
   font-family:
     source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
-.App {
-  text-align: center;
-  margin: 50px;
+
+.button {
+  width: 10vw;
+  height: 10vw;
 }
-.App-header {
-  background-color: #faa;
-  animation: ease;
-  transition-duration: 5000ms;
-  min-height: 50vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#lilia {
+  position: absolute;
+  top: 5%;
+  left: 80%;
 }
-.App-header:hover {
-  background-color: #aaf;
-  animation: ease;
-  transition-duration: 5000ms;
+#darklight {
+  position: absolute;
+  top: 5%;
+  left: 5%;
 }
