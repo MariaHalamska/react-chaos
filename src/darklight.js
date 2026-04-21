@@ -27,8 +27,8 @@ export default class LottieControl extends React.Component {
     );
   }
 }
-darklightBTN.addEventListener("click", () => {
-  document.body.classList.toggle("dark");
-});
+//darklightBTN.addEventListener("click", () => {
+//  document.body.classList.toggle("dark");
+//});
 //cd react-chaos
 //npm start
