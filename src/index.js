@@ -4,6 +4,7 @@ import "./index.css";
 import DarkLight from "./darklight";
 import Lilia from "./Lilia";
 import reportWebVitals from "./reportWebVitals";
+import Something from "./something";
 
 const liliaBTN = document.getElementById("lilia");
 
@@ -12,6 +13,7 @@ root.render(
   <React.StrictMode>
     <DarkLight />
     <Lilia />
+    <Something />
   </React.StrictMode>,
 );
 
