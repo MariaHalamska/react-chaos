@@ -1,8 +1,10 @@
+import React from "react";
+
 function Something() {
   return (
-    <div>
-      <p>something</p>
-    </div>
+    <body>
+      <p class="center">something</p>
+    </body>
   );
 }
 
